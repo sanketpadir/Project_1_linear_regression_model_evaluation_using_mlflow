@@ -34,7 +34,7 @@ MLflow is an open-source platform for managing the end-to-end machine learning l
 
 6.MLflow provides a unified and streamlined approach to managing the machine learning lifecycle, making it easier for data scientists and machine learning engineers to collaborate, reproduce results, and deploy models. It has gained significant popularity and adoption in the machine learning community due to its simplicity, flexibility, and open-source nature.
 
-# code and tools
+# libraries and tools
 The code is written in Python and utilizes the following libraries and tools:
 
 numpy
