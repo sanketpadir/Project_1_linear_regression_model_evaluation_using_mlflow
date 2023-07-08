@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sanket/Desktop/Deployments/Medical_Insurance/.ipynb_checkpoints/mlruns/0/415e0d48686b4dc4a601b20c08df506d/artifacts
+end_time: 1688829251694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 415e0d48686b4dc4a601b20c08df506d
+run_name: Linear_Test
+run_uuid: 415e0d48686b4dc4a601b20c08df506d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688829251640
+status: 3
+tags: []
+user_id: Sanket

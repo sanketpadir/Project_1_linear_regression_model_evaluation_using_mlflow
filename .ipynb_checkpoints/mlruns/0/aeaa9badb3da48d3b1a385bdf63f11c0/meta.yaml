@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sanket/Desktop/Deployments/Medical_Insurance/.ipynb_checkpoints/mlruns/0/aeaa9badb3da48d3b1a385bdf63f11c0/artifacts
+end_time: 1688829254597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeaa9badb3da48d3b1a385bdf63f11c0
+run_name: Ridge_Train
+run_uuid: aeaa9badb3da48d3b1a385bdf63f11c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688829254560
+status: 3
+tags: []
+user_id: Sanket

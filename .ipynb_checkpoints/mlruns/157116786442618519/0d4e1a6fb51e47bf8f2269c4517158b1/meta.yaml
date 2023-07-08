@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sanket/Desktop/Deployments/Medical_Insurance/.ipynb_checkpoints/mlruns/157116786442618519/0d4e1a6fb51e47bf8f2269c4517158b1/artifacts
+end_time: 1688821034463
+entry_point_name: ''
+experiment_id: '157116786442618519'
+lifecycle_stage: active
+run_id: 0d4e1a6fb51e47bf8f2269c4517158b1
+run_name: Lasso_Test
+run_uuid: 0d4e1a6fb51e47bf8f2269c4517158b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688821034415
+status: 3
+tags: []
+user_id: Sanket
